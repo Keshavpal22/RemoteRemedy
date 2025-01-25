@@ -82,7 +82,7 @@ const Success = () => {
       <div className="p-[50px] pt-[20px] max-w-[1200px] w-full my-0 mx-auto text-blue-8">
         <h1>Payment Successful!!!</h1>
         <br></br>
-        <h3>Thank you for choosing Remote Remedy!</h3>
+        <h3>Thank you for choosing RemoteRemedy!</h3>
       </div>
       <div className="flex justify-center items-center text-blue-9" onClick={() => setActive(prev => !prev)}>
         <CircularProgress size={24} />

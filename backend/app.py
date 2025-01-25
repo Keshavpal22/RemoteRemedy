@@ -58,7 +58,7 @@ except Exception as e:
     print(f"Error connecting to MongoDB: {e}")
 @app.get("/")
 def getInfo():
-    return "WelCome to 💖Remote Remedy server !!!! "
+    return "WelCome to 💖RemoteRemedy server !!!! "
 
 @app.before_request
 def before_request():
@@ -138,7 +138,7 @@ def register():
                       "messaging_product": "whatsapp",
                       "to": data['phone'],
                       "text": {
-                        "body": "Thank You for Signing up on Remote Remedy"
+                        "body": "Thank You for Signing up on RemoteRemedy"
                     }
                 }
                 whatsapp_message(payload)

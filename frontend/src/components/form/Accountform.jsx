@@ -184,7 +184,7 @@ const AccountForm = () => {
                                 </h2>
                                 {!isForgotPassword && (
                                     <p className="text-gray-600 text-sm">
-                                        {isSignupVisible ? 'Already have an account?' : 'New to Remote Remedy?'}
+                                        {isSignupVisible ? 'Already have an account?' : 'New to RemoteRemedy?'}
                                         <button type="button" 
                                                 onClick={handleIsSignupVisible}
                                                 className="text-blue-600 font-medium ml-2 hover:underline">

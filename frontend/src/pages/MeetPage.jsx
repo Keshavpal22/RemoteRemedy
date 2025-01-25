@@ -210,7 +210,7 @@ const MeetPage = () => {
       gender: searchparams.get("gender")? searchparams.get("gender")[0].toUpperCase() + searchparams.get("gender").slice(1).toLowerCase() : "NA",
       selectedDoc: searchparams.get("selectedDoc")? searchparams.get("selectedDoc") : "Doctor_Name"
     }, prescription);
-    pdf.save("Remote Remedy-Invoice.pdf");
+    pdf.save("RemoteRemedy-Invoice.pdf");
 
   }
 

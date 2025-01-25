@@ -13,7 +13,7 @@ const PDFGenerator = ({name, age, gender, selectedDoc}, prescription) => {
     pdf.setFontSize(25);
     pdf.setTextColor(74, 76, 178);
     
-    pdf.text("Remote Remedy", (pdf.internal.pageSize.width - 40 - (pdf.getStringUnitWidth("Remote Remedy") * pdf.internal.getFontSize())), y);
+    pdf.text("RemoteRemedy", (pdf.internal.pageSize.width - 40 - (pdf.getStringUnitWidth("RemoteRemedy") * pdf.internal.getFontSize())), y);
     y += 30;
     pdf.setFont("Helvetica", "normal");
     pdf.setFontSize(15);
@@ -23,7 +23,7 @@ const PDFGenerator = ({name, age, gender, selectedDoc}, prescription) => {
     y += 20;
     pdf.text("+91 12345 67890", (pdf.internal.pageSize.width - 40 - (pdf.getStringUnitWidth("+91 12345 67890") * pdf.internal.getFontSize())), y);
     y += 20;
-    pdf.text("Remote Remedy@gmail.com", (pdf.internal.pageSize.width - 40 - (pdf.getStringUnitWidth("Remote Remedy@gmail.com") * pdf.internal.getFontSize())), y);
+    pdf.text("RemoteRemedy@gmail.com", (pdf.internal.pageSize.width - 40 - (pdf.getStringUnitWidth("RemoteRemedy@gmail.com") * pdf.internal.getFontSize())), y);
     y += 25;
     
     pdf.setFillColor(74, 76, 178);
@@ -138,7 +138,7 @@ const PDFGenerator = ({name, age, gender, selectedDoc}, prescription) => {
     pdf.setFont("Helvetica", "normal");
     pdf.setFontSize(12);
     pdf.setTextColor(150);
-    pdf.text("2024 @Remote Remedy | All Rights Reserved", pdf.internal.pageSize.width - 40 - pdf.getStringUnitWidth("2024 @Remote Remedy | All Rights Reserved") * pdf.internal.getFontSize(), pdf.internal.pageSize.height - 30);
+    pdf.text("2024 @RemoteRemedy | All Rights Reserved", pdf.internal.pageSize.width - 40 - pdf.getStringUnitWidth("2024 @RemoteRemedy | All Rights Reserved") * pdf.internal.getFontSize(), pdf.internal.pageSize.height - 30);
 
     return pdf;
 }

@@ -25,7 +25,7 @@ const Preloader = () => {
           <div className="">
             <img
               src={logo}
-              alt="Remote Remedy Logo"
+              alt="RemoteRemedy Logo"
               className="h-[75px] max-sm:h-[57px] animate-pulse-custom object-contain transform transition-none duration-200 ease-in-out scale-100 hover:scale-110"
             />
           </div>

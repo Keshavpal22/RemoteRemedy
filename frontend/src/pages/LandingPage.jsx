@@ -63,15 +63,15 @@ const LandingPage = () => {
 
   const faqs = [
     {
-      question: "What is Remote Remedy?",
+      question: "What is RemoteRemedy?",
       answer:
         "It is the web application that connects patients to the right doctor or allow them to choose a doctor as per their need. It provides information about users, doctors, news, appointments, and prescriptions. It also allows users to create instant meetings with doctors, and buy medicines. It allows users to check their health status by using his/her symptoms.",
     },
     {
       question:
-        "Can we get a free account in Remote Remedy and use all its features for free?",
+        "Can we get a free account in RemoteRemedy and use all its features for free?",
       answer:
-        "Yes, Ofcourse. You can use all the features provided by Remote Remedy for free.",
+        "Yes, Ofcourse. You can use all the features provided by RemoteRemedy for free.",
     },
     {
       question: "Can we book an appointment at any time?",
@@ -85,7 +85,7 @@ const LandingPage = () => {
     },
     {
       question: "Can we purchase the medicines from here?",
-      answer: "Yes. You can purchase the medicines from Remote Remedy store.",
+      answer: "Yes. You can purchase the medicines from RemoteRemedy store.",
     },
   ];
 
@@ -96,7 +96,7 @@ const LandingPage = () => {
   return (
     <>
       <div>
-        <section className="h-screen w-full">
+        <section className="h-screen w-full bg-[rgb(236,254,255)] p-4">
           {/* curvy-img */}
           <div className="relative top-[5.5rem] h-[90%] bg-left bg-no-repeat bg-cover -b-4 left-0 z-0 bg-curvy-shape max-lg:h-[95%] max-md:h-[80%] max-md:top-[23.5rem]"></div>
           <div className="absolute left-0 top-0 h-[85%] z-[1] flex justify-evenly items-center w-full text-blue-8 text-shadow-landing-highlight max-md:flex max-md:justify-end max-md:items-center max-md:flex-col-reverse max-xxs:top-12 max-lg:px-4">

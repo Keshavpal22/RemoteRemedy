@@ -3,7 +3,7 @@ import useDocTitle from '../hooks/useDocTitle';
 import Rating from 'react-rating-stars-component';
 
 const Feedback = () => {
-  useDocTitle('Feedback - Remote Remedy');
+  useDocTitle('Feedback - RemoteRemedy');
   const [formData, setFormData] = useState({
     type: '',
     rating: 0,

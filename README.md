@@ -1,4 +1,4 @@
- # <p align="center">💖Remote Remedy</p>
+ # <p align="center">💖RemoteRemedy</p>
 <!-------------------------------------------------------------------------------------------------------------------------------------->
  <div align="center">
  <p>
@@ -6,16 +6,16 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=redev007%2FRemote Remedy%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/redev007/Remote Remedy)
-![GitHub Repo stars](https://img.shields.io/github/stars/redev007/Remote Remedy)
-![GitHub contributors](https://img.shields.io/github/contributors/redev007/Remote Remedy)
-![GitHub last commit](https://img.shields.io/github/last-commit/redev007/Remote Remedy)
-![GitHub repo size](https://img.shields.io/github/repo-size/redev007/Remote Remedy)
-![Github license](https://img.shields.io/github/license/redev007/Remote Remedy)
-![GitHub issues](https://img.shields.io/github/issues/redev007/Remote Remedy)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/redev007/Remote Remedy)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/redev007/Remote Remedy)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/redev007/Remote Remedy)
+![GitHub forks](https://img.shields.io/github/forks/redev007/RemoteRemedy)
+![GitHub Repo stars](https://img.shields.io/github/stars/redev007/RemoteRemedy)
+![GitHub contributors](https://img.shields.io/github/contributors/redev007/RemoteRemedy)
+![GitHub last commit](https://img.shields.io/github/last-commit/redev007/RemoteRemedy)
+![GitHub repo size](https://img.shields.io/github/repo-size/redev007/RemoteRemedy)
+![Github license](https://img.shields.io/github/license/redev007/RemoteRemedy)
+![GitHub issues](https://img.shields.io/github/issues/redev007/RemoteRemedy)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/redev007/RemoteRemedy)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/redev007/RemoteRemedy)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/redev007/RemoteRemedy)
  </p>
  </div>
 
@@ -41,7 +41,7 @@
 
 <h2>📌Introduction</h2>
 
-Remote Remedy is designed to make healthcare simple and accessible for both doctors and patients. It allows patients to connect with doctors through video calls, manage their health records, and make payments easily. For doctors, the app provides tools to schedule consultations, write prescriptions, and manage their time effectively.
+RemoteRemedy is designed to make healthcare simple and accessible for both doctors and patients. It allows patients to connect with doctors through video calls, manage their health records, and make payments easily. For doctors, the app provides tools to schedule consultations, write prescriptions, and manage their time effectively.
 
 <h2>💡Features</h2>
 
@@ -84,14 +84,14 @@ Remote Remedy is designed to make healthcare simple and accessible for both doct
 
 <h2>⭐Overview</h2>
 
-<h1 align="center"> <a href="https://pratik0112-Remote Remedy.vercel.app/"> Live Project Demo ↗️</a></h1>
+<h1 align="center"> <a href="https://pratik0112-RemoteRemedy.vercel.app/"> Live Project Demo ↗️</a></h1>
 
-![](https://github.com/redev007/Remote Remedy/blob/master/Overview/1.png)
-![](https://github.com/redev007/Remote Remedy/blob/master/Overview/2.png)
-![](https://github.com/redev007/Remote Remedy/blob/master/Overview/3.png)
-![](https://github.com/redev007/Remote Remedy/blob/master/Overview/4.png)
-![](https://github.com/redev007/Remote Remedy/blob/master/Overview/5.png)
-![](https://github.com/redev007/Remote Remedy/blob/master/Overview/6.png)
+![](https://github.com/redev007/RemoteRemedy/blob/master/Overview/1.png)
+![](https://github.com/redev007/RemoteRemedy/blob/master/Overview/2.png)
+![](https://github.com/redev007/RemoteRemedy/blob/master/Overview/3.png)
+![](https://github.com/redev007/RemoteRemedy/blob/master/Overview/4.png)
+![](https://github.com/redev007/RemoteRemedy/blob/master/Overview/5.png)
+![](https://github.com/redev007/RemoteRemedy/blob/master/Overview/6.png)
 
 
 <h3 align="right"><a href="#top">⬆️</a></h3>
@@ -103,7 +103,7 @@ Remote Remedy is designed to make healthcare simple and accessible for both doct
 - Clone the forked repository in your local system.
   
  ```bash
- git clone https://github.com/<your-github-username>/Remote Remedy.git
+ git clone https://github.com/<your-github-username>/RemoteRemedy.git
  ```
 <h2>💻Local Setup</h2>
 
@@ -153,7 +153,7 @@ Refer to the [EnvVarSetUpGuideline.md](.github/EnvVarSetUpGuideline.md) for deta
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>🐳Docker Setup</h2>
 
-Docker provides an easier way to set up and run Remote Remedy with all its dependencies.
+Docker provides an easier way to set up and run RemoteRemedy with all its dependencies.
 
 ### Prerequisites
 - Docker and Docker Compose [installed](https://www.docker.com/products/docker-desktop/) on your system
@@ -213,15 +213,15 @@ docker-compose kill
 <table>
 <tr>
 <td align="center">
-<a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/redev007/Remote Remedy/blob/master/Overview/KWoC.png" height="100px" width="100px" alt="KWOC2024"></a><br><sub><b>KWOC 2k24</b></sub>
+<a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/redev007/RemoteRemedy/blob/master/Overview/KWoC.png" height="100px" width="100px" alt="KWOC2024"></a><br><sub><b>KWOC 2k24</b></sub>
 </td>
 <td></td>
  <td align="center">
-<a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/redev007/Remote Remedy/blob/master/Overview/SWoC.png" height="100px" width="100px" alt="SWOC2025"></a><br><sub><b>SWOC 2k25</b></sub>
+<a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/redev007/RemoteRemedy/blob/master/Overview/SWoC.png" height="100px" width="100px" alt="SWOC2025"></a><br><sub><b>SWOC 2k25</b></sub>
 </td>
  <td></td>
  <td align="center">
-<a href="https://dwoc.io/"><img src="https://github.com/redev007/Remote Remedy/blob/master/Overview/DWoC.jpg" height="100px" width="100px" alt="SWOC2025"></a><br><sub><b>DWOC 2k25</b></sub>
+<a href="https://dwoc.io/"><img src="https://github.com/redev007/RemoteRemedy/blob/master/Overview/DWoC.jpg" height="100px" width="100px" alt="SWOC2025"></a><br><sub><b>DWOC 2k25</b></sub>
 </td>
 </tr>
 </table>
@@ -230,8 +230,8 @@ docker-compose kill
 
 <h2>🫂Project Contributors</h2>
 
-<a href="https://github.com/redev007/Remote Remedy/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=redev007/Remote Remedy&cache_burst=1" />
+<a href="https://github.com/redev007/RemoteRemedy/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=redev007/RemoteRemedy&cache_burst=1" />
 </a>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -245,11 +245,11 @@ docker-compose kill
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h2>📑Contributing Guidelines</h2>
 
-Read our [Contributing Guidelines](https://github.com/redev007/Remote Remedy/blob/master/.github/CONTRIBUTING_GUIDELINES.md) to learn about our development process, how to propose bugfixes and improvements, and contributions.
+Read our [Contributing Guidelines](https://github.com/redev007/RemoteRemedy/blob/master/.github/CONTRIBUTING_GUIDELINES.md) to learn about our development process, how to propose bugfixes and improvements, and contributions.
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2>📑Code Of Conduct</h2>
 
-Remote Remedy and everyone participating in it is governed by the [Code of Conduct](https://github.com/redev007/Remote Remedy/blob/master/.github/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+RemoteRemedy and everyone participating in it is governed by the [Code of Conduct](https://github.com/redev007/RemoteRemedy/blob/master/.github/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 

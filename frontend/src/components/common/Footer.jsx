@@ -77,7 +77,7 @@ const Footer = () => {
               to="/"
               className="opacity-80 hover:opacity-100 transition-all"
             >
-              {new Date().getFullYear()} @{" "}Remote Remedy |{" "}
+              {new Date().getFullYear()} @{" "}RemoteRemedy |{" "}
             </Link>{" "}
             {" "}| All Rights Reserved
           </p>

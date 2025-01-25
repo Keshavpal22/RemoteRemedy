@@ -98,7 +98,7 @@ const Header = () => {
                 <div className="container mx-auto px-4">
                     <div className="flex justify-between items-center">
                         <Link to="/" className="flex items-center">
-                            <img src={logo} alt="Remote Remedy" className="h-12 w-auto" />
+                            <img src={logo} alt="RemoteRemedy" className="h-12 w-auto" />
                         </Link>
 
                         {localStorage.getItem("username") ? (

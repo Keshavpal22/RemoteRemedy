@@ -36,7 +36,7 @@ const Home = (props) => {
               className="text-blue-8 h-4 peer-checked:outline-none"
               htmlFor="truth"
             >
-              I agree to the Remote Remedy terms and conditions
+              I agree to the RemoteRemedy terms and conditions
             </label>
           </div>
         </form>

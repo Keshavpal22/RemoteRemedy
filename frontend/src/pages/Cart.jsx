@@ -186,7 +186,7 @@ const Cart = () => {
                           JSON.stringify(cartItems)
                         );
                         window.location.href =
-                          "https://Remote Remedy-server.vercel.app/success";
+                          "https://RemoteRemedy-server.vercel.app/success";
                       } else {
                         setIsCheckoutLoading(true);
                         httpClient.post("/debit_wallet", {

@@ -26,7 +26,7 @@ const ChatBot = () => {
   const [isVisible, setIsVisible] = useState(false);
   const [messages, setMessages] = useState([
     {
-      message: "Hello, This is Remote Remedy!!! Ask me anything!",
+      message: "Hello, This is RemoteRemedy!!! Ask me anything!",
       sentTime: "just now",
       sender: "gemini-pro",
     },
@@ -65,7 +65,7 @@ const ChatBot = () => {
         ...prevMessages,
         newMessage,
         {
-          message: "Hello!! Welcome to Remote Remedy!!!",
+          message: "Hello!! Welcome to RemoteRemedy!!!",
           sender: "gemini-pro",
         },
       ]);
@@ -190,7 +190,7 @@ const ChatBot = () => {
                 scrollBehavior="smooth"
                 typingIndicator={
                   isTyping ? (
-                    <TypingIndicator content="Remote Remedy is typing" />
+                    <TypingIndicator content="RemoteRemedy is typing" />
                   ) : null
                 }
               >

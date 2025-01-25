@@ -3,9 +3,9 @@ import { useEffect } from 'react';
 const useDocTitle = (title) => {
     useEffect(() => {
         if (title) {
-            document.title = `${title} - Remote Remedy`;
+            document.title = `${title} - RemoteRemedy`;
         } else {
-            document.title = 'Remote Remedy';
+            document.title = 'RemoteRemedy';
         }
     }, [title]);
 

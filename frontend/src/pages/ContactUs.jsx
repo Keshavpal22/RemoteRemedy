@@ -17,7 +17,7 @@ const AlertMessage = ({ type, message }) => {
 };
 
 const ContactUs = () => {
-  useDocTitle('Contact Us - Remote Remedy');
+  useDocTitle('Contact Us - RemoteRemedy');
   const [formData, setFormData] = useState({
     name: '',
     email: '',
